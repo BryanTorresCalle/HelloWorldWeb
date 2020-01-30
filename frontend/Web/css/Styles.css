@@ -1,0 +1,48 @@
+
+
+h1{
+    color: brown;
+}
+
+p{
+
+    font-size: small;
+    font-family:  'Press Start 2P';
+}
+
+ul{
+    background-color:lightcyan ;
+    padding: 30px;
+    float: center;
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+    padding: 12px;
+    margin: 12px;
+    
+    
+    
+}
+
+
+ul li a:hover {
+    
+    background-color:  silver;
+    font-style: italic;
+    
+    
+}
+
+nav{
+    float: center;
+}
+
+.pruebaMargin{
+    margin-top: 30px;
+    background-color: white;
+    border-color: crimson;
+    border-width: 3px;
+    border-style: solid;
+}
